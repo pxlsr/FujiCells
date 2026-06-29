@@ -1,6 +1,6 @@
 # FujiCells
 
-<img width="1154" height="361" alt="DescriptionPicture" src="./Preview Pictures/DescriptionPicture.png" />
+<img width="2310" height="1080" alt="DescriptionPicture" src="./Preview Pictures/DescriptionPicture.png" />
 
 The chip being reverse engineered is the Roland MB87419 DPCM DSP.
 
