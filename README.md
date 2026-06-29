@@ -1,6 +1,6 @@
 # FujiCells
 
-<img width="1154" height="361" alt="DescriptionPicture" src="https://github.com/user-attachments/assets/bd60ecc3-8311-4eab-99b8-7ebcdfa9b2a7" />
+<img width="1154" height="361" alt="DescriptionPicture" src="./Preview Pictures/DescriptionPicture.png" />
 
 The chip being reverse engineered is the Roland MB87419 DPCM DSP.
 
@@ -13,6 +13,7 @@ It is being done layer by layer (SRAM1 and SRAM2, SidewaysArea, and Adder are al
 It has taken me over 800 hours by this point to get the file to where it is.\
 \
 I am aware of the short on the SRAM array and will need to go over that area and check it again.
+SRAM Arrays have been fixed.
 
 ## Note
 Cell documentation exists in [Cells.pdf](Cells.pdf)
