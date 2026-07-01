@@ -13,7 +13,9 @@ It is being done layer by layer (SRAM1 and SRAM2, SidewaysArea, and Adder are al
 It has taken me over 800 hours by this point to get the file to where it is.\
 \
 ~~I am aware of the short on the SRAM array and will need to go over that area and check it again.~~\
-SRAM Arrays have been fixed.
+SRAM Arrays have been fixed.\
+
+Standard cells are roughly 50% completed. 
 
 ## Note
 Cell documentation exists in [Cells.pdf](Cells.pdf)
