@@ -14,8 +14,7 @@ It has taken me over 800 hours by this point to get the file to where it is.\
 \
 ~~I am aware of the short on the SRAM array and will need to go over that area and check it again.~~\
 SRAM Arrays have been fixed.\
-
-Standard cells are roughly 50% completed. 
+Standard cells are now 66% completed. 
 
 ## Note
 Cell documentation exists in [Cells.pdf](Cells.pdf)
