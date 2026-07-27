@@ -4,6 +4,8 @@
 
 The chip being reverse engineered is the Roland MB87419 DPCM DSP.
 
+Please see this project: https://github.com/pxlsr/xD-69 for additional information
+
 CMOS layout mapping and ASIC reverse engineering project.\
 Please see the SVG for the data, and the PDF for the cell descriptions.\
 The PDF will be updated in due time to reflect their CMOS logic type.
